@@ -23,11 +23,11 @@
 
 <h1 align="center">Testnets</h1>
 <ul>
- <li>Quicksilver chains: rhapsody-2,3,4,5 </li>
- <li>Subspaces chains: Gemini I,Gemini II </li>
+ <li>Quicksilver: rhapsody-2,3,4,5 </li>
+ <li>Subspaces : Gemini I,Gemini II </li>
  <li>Aptos: AIT2 </li>
  <li>SUI <l/i>
- <li>Aura chains: halo-testnet,euphoria, euphoria-2 </li>
+ <li>Aura: halo-testnet,euphoria, euphoria-2 </li>
  <li>Celestia </li>
  <li>Clan chain </li>
  <li>CrowdControl </li>
@@ -35,7 +35,7 @@
  <li>DWS </li>
  <li>Gear </li>
  <li>Islamic Coin </li>
- <li>Kujira chains: harpoon-4,5 </li>
+ <li>Kujira: harpoon-4,5 </li>
  <li>Kyve </li>
  <li>Masa </li>
  <li>Massa </li>
