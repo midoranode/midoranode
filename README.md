@@ -56,6 +56,14 @@ Neutron: quark-1
 Exorde
 Chainflip
 
+<h1 align="center">Socials</h1>
+
+GitHub https://github.com/midoranode
+
+Twitter https://twitter.com/midoranode
+
+Discord Midora#7905
+
 
 
 
