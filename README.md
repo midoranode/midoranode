@@ -3,7 +3,7 @@ Hi, my name is Tony. I am a solo noderunner, validator and blockchain enthusiast
 
 I have  about 1.5 years of experience in running node, validating and testnet participating. Also I have experience as a Linux administrator in previous times. 
 
-What is Midora? It's a secure and reliable solo validator with experience in POS/POW. IBC Relayer for Cosmos ecosystem runner. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
+What is Midoranode? It's a secure and reliable solo validator with experience in POS/POW. IBC Relayer for Cosmos ecosystem runner. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
 
 
 
