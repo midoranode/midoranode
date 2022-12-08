@@ -32,6 +32,7 @@
  <li>Clan chain </li>
  <li>CrowdControl </li>
  <li>Defund </li>
+ <li>Bitcanna </li>
  <li>DWS </li>
  <li>Gear </li>
  <li>Islamic Coin </li>
