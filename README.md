@@ -53,6 +53,7 @@
  <li>Empower: altruistic-1 </li>
  <li>Nibiru: nibiru-testnet-1 </li>
  <li>Neutron: quark-1 </li>
+ <li>Aleo </li>
  <li>Exorde </li>
  <li>Chainflip </li>
 </ul>
