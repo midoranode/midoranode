@@ -1,7 +1,7 @@
 <h1 align="center">BIO</h1>
 <p>Hi, my name is <b>Tony</b>. I am a solo <b>noderunner</b>, <b>validator</b> and <b>blockchain enthusiast</b>. I am solo validator but also is a part of crypto team which include influencers, investors, crypto developers and other crypto enthusiasts.</p>
 
-<p>I have  about 1.5 years of experience in running node, validating and testnet participating. Also I have experience as a Linux administrator in previous times. </p>
+<p>I have  about 1.5 years of experience in running nodes, validating and testnet participating. Also I have experience as a Linux administrator in previous times. </p>
 
 <p>What is Midoranode? It's a secure and reliable solo validator with experience in POS/POW. IBC Relayer for Cosmos ecosystem runner. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)</p>
 
