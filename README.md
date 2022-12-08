@@ -6,20 +6,20 @@
 <p>What is Midoranode? It's a secure and reliable solo validator with experience in POS/POW. IBC Relayer for Cosmos ecosystem runner. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)</p>
 
 <h1 align="center">Hardware</h1>
-Location - Hetzner DS, Ovhcloud, Digitalocean, Netcup (Location can be changed, It necessary) 
+<p>Location - Hetzner DS, Ovhcloud, Digitalocean, Netcup (Location can be changed, It necessary)</p> 
 
-Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
+<p>Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)</p>
 
-Memory - 6.8 TB NVMe
+<p>Memory - 6.8 TB NVMe</p>
 
-Bandwidth - 1 Gbit/s-Port
+<p>Bandwidth - 1 Gbit/s-Port</p>
 
 <h1 align="center">Mainnets</h1>
-Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwjw2l5w
+<p>Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwjw2l5w</p>
 
-Canto https://explorer.nodestake.top/canto/staking/cantovaloper13yvg4hhej84awly699vus75szvdnuw3hw2ylux
+<p>Canto https://explorer.nodestake.top/canto/staking/cantovaloper13yvg4hhej84awly699vus75szvdnuw3hw2ylux</p>
 
-Jackal https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg
+<p>Jackal https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg</P>
 
 <h1 align="center">Testnets</h1>
 
@@ -58,11 +58,11 @@ Chainflip
 
 <h1 align="center">Socials</h1>
 
-GitHub https://github.com/midoranode
+<p>GitHub https://github.com/midoranode</p>
 
-Twitter https://twitter.com/midoranode
+<p>Twitter https://twitter.com/midoranode</p>
 
-Discord Midora#7905
+<p>Discord Midora#7905</p>
 
 
 
