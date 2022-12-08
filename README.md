@@ -23,6 +23,40 @@ Jackal https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e
 
 <h1 align="center">Testnets</h1>
 
+Quicksilver chains: rhapsody-2,3,4,5
+Subspaces chains: Gemini I,Gemini II
+Aptos: AIT2
+SUI
+Aura chains: halo-testnet,euphoria, euphoria-2
+Celestia
+Clan chain
+CrowdControl
+Defund
+DWS
+Gear
+Islamic Coin
+Kujira chains: harpoon-4,5
+Kyve
+Masa
+Massa
+Minima
+Oasis
+Paloma
+Rebus
+Starknet
+Stride
+Teritori
+Zeisha
+Nois: nois-testnet-002
+Ollo
+OKP4: okp4-nemeton
+Empower: altruistic-1
+Nibiru: nibiru-testnet-1
+Neutron: quark-1
+Exorde
+Chainflip
+
+
 
 
 
