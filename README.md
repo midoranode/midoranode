@@ -54,11 +54,12 @@
  <li>Ollo </li>
  <li>OKP4: okp4-nemeton </li>
  <li>Empower: altruistic-1 </li>
- <li>Nibiru: nibiru-testnet-1 </li>
+ <li>Nibiru: nibiru-testnet-1, nibiru-testnet-2 </li>
  <li>Neutron: quark-1 </li>
  <li>Aleo </li>
  <li>Exorde </li>
  <li>Chainflip </li>
+ <li>Hypersign-protocol </li>
 </ul>
 
 <h1 align="center">Socials</h1>
