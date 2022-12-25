@@ -21,6 +21,8 @@
 
 <p><b>Jackal</b> https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg</P>
 
+<p><b>Lambda</b> https://explorer.nodestake.top/lambda/staking/lambvaloper13yvg4hhej84awly699vus75szvdnuw3h2at4mj</P>
+
 <h1 align="center">Testnets</h1>
 <ul>
  <li>Quicksilver: rhapsody-2,3,4,5 </li>
