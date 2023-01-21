@@ -23,6 +23,8 @@
 
 <p><b>Lambda</b> https://explorer.nodestake.top/lambda/staking/lambvaloper13yvg4hhej84awly699vus75szvdnuw3h2at4mj</P>
 
+<p><b>Lum</b> https://www.mintscan.io/lum/validators/lumvaloper1yljgmzm67sr3hp8cwje75zk4aakc7gqmzsuxxl</P>
+
 <h1 align="center">Testnets</h1>
 <ul>
  <li>Quicksilver: rhapsody-2,3,4,5 </li>
