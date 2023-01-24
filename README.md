@@ -25,6 +25,8 @@
 
 <p><b>Lum</b> https://www.mintscan.io/lum/validators/lumvaloper1yljgmzm67sr3hp8cwje75zk4aakc7gqmzsuxxl</P>
 
+<p><b>Gravity-Bridge</b> https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq887flh</P>
+
 <h1 align="center">Testnets</h1>
 <ul>
  <li>Quicksilver: rhapsody-2,3,4,5 </li>
