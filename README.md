@@ -15,11 +15,14 @@
 <p><b>Bandwidth</b> - 1 Gbit/s-Port</p>
 
 <h1 align="center">Mainnets</h1>
+
+<p><b>Jackal</b> https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg</P>
+
+<p><b>Bitcanna</b> https://www.mintscan.io/bitcanna/account/bcna1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pqgv9wce</P>
+
 <p><b>Konstellation</b> https://www.mintscan.io/konstellation/validators/darcvaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwjw2l5w</p>
 
 <p><b>Canto</b> https://explorer.nodestake.top/canto/staking/cantovaloper13yvg4hhej84awly699vus75szvdnuw3hw2ylux</p>
-
-<p><b>Jackal</b> https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg</P>
 
 <p><b>Lambda</b> https://explorer.nodestake.top/lambda/staking/lambvaloper13yvg4hhej84awly699vus75szvdnuw3h2at4mj</P>
 
