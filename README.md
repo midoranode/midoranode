@@ -16,6 +16,8 @@
 
 <h1 align="center">Mainnets</h1>
 
+<p><b>Paloma</b> https://paloma.explorers.guru/validator/palomavaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwt75k38</P>
+
 <p><b>Jackal</b> https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg</P>
 
 <p><b>Bitcanna</b> https://www.mintscan.io/bitcanna/validators/bcnavaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq335wzd</P>
