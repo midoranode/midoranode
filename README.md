@@ -24,8 +24,6 @@
 
 <p><b>Konstellation</b> https://www.mintscan.io/konstellation/validators/darcvaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwjw2l5w</p>
 
-<p><b>Canto</b> https://explorer.nodestake.top/canto/staking/cantovaloper13yvg4hhej84awly699vus75szvdnuw3hw2ylux</p>
-
 <p><b>Lambda</b> https://explorer.nodestake.top/lambda/staking/lambvaloper13yvg4hhej84awly699vus75szvdnuw3h2at4mj</P>
 
 <p><b>Lum</b> https://www.mintscan.io/lum/validators/lumvaloper1yljgmzm67sr3hp8cwje75zk4aakc7gqmzsuxxl</P>
