@@ -67,6 +67,10 @@
  <li>Exorde </li>
  <li>Chainflip </li>
  <li>Hypersign-protocol </li>
+ <li>Ojo </li>
+ <li>Andromeda </li>
+ <li>SAO </li>
+ <li>HAQQ </li>
 </ul>
 
 <h1 align="center">Socials</h1>
