@@ -22,8 +22,6 @@
 
 <p><b>Bitcanna</b> https://www.mintscan.io/bitcanna/validators/bcnavaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq335wzd</P>
 
-<p><b>Konstellation</b> https://www.mintscan.io/konstellation/validators/darcvaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwjw2l5w</p>
-
 <p><b>Lambda</b> https://explorer.nodestake.top/lambda/staking/lambvaloper13yvg4hhej84awly699vus75szvdnuw3h2at4mj</P>
 
 <p><b>Lum</b> https://www.mintscan.io/lum/validators/lumvaloper1yljgmzm67sr3hp8cwje75zk4aakc7gqmzsuxxl</P>
