@@ -16,7 +16,7 @@
 
 <h1 align="center">Mainnets</h1>
 
-<p><b>Paloma</b> https://paloma.explorers.guru/validator/palomavaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwt75k38</P>
+
 
 <p><b>Jackal</b> https://exp.utsa.tech/jackal/staking/jklvaloper1aa33yq7znh6qcfgr9fkv7xp9e0u7yrapwrstgg</P>
 
@@ -26,7 +26,8 @@
 
 <p><b>Lum</b> https://www.mintscan.io/lum/validators/lumvaloper1yljgmzm67sr3hp8cwje75zk4aakc7gqmzsuxxl</P>
 
-<p><b>Gravity-Bridge</b> https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq887flh</P>
+<p><b>Paloma</b> https://paloma.explorers.guru/validator/palomavaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwt75k38</P>
+
 
 <h1 align="center">Testnets</h1>
 <ul>
