@@ -28,8 +28,11 @@
 
 <p><b>Paloma</b> https://paloma.explorers.guru/validator/palomavaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwt75k38</P>
 
+<h1 align="center">Testnets(Active)</h1>
 
-<h1 align="center">Testnets</h1>
+<p><b>Jackal</b> https://explorer.stavr.tech/Jackal-Testnet/staking/jklvaloper130a9vvumtlse6h5r5phs75ktvgy3gjvd2xa8hq</P>
+
+<h1 align="center">Testnets(Completed)</h1>
 <ul>
  <li>Quicksilver: rhapsody-2,3,4,5 </li>
  <li>Subspaces : Gemini I,Gemini II </li>
