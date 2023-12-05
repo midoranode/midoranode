@@ -83,7 +83,7 @@
 
 <p><b>Twitter</b> https://twitter.com/midoranode</p>
 
-<p><b>Discord</b> Midora#7905</p>
+<p><b>Discord</b> midora.</p>
 
 
 
