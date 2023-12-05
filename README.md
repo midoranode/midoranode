@@ -30,7 +30,9 @@
 
 <h1 align="center">Testnets(Active)</h1>
 
-<p><b>Jackal</b> https://explorer.stavr.tech/Jackal-Testnet/staking/jklvaloper130a9vvumtlse6h5r5phs75ktvgy3gjvd2xa8hq</P>
+<p><b>Arkeo</b> https://exp.utsa.tech/arkeo-test/staking/tarkeovaloper130a9vvumtlse6h5r5phs75ktvgy3gjvd0zmsf4</P>
+
+<p><b>Entangle</b> https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1cnm4wsz8z69wpkl5nknps5y0psfytzmwr6g9qy</P>
 
 <h1 align="center">Testnets(Completed)</h1>
 <ul>
