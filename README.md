@@ -34,6 +34,8 @@
 
 <p><b>Entangle</b> https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1cnm4wsz8z69wpkl5nknps5y0psfytzmwr6g9qy</P>
 
+<p><b>Entrypoint</b> https://exp.utsa.tech/entrypoint-test/staking/entrypointvaloper1l9myhjajdavd7cqw8280pktpxu4yuqrnrxs63c</P>
+
 <h1 align="center">Testnets(Completed)</h1>
 <ul>
  <li>Quicksilver: rhapsody-2,3,4,5 </li>
