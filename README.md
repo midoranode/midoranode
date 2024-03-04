@@ -36,6 +36,8 @@
 
 <p><b>Entrypoint</b> https://exp.utsa.tech/entrypoint-test/staking/entrypointvaloper1l9myhjajdavd7cqw8280pktpxu4yuqrnrxs63c</P>
 
+<p><b>HyperSign</b> https://explorer.stavr.tech/HyperSign/staking/hidvaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq0dy5d3</P>
+
 <h1 align="center">Testnets(Completed)</h1>
 <ul>
  <li>Quicksilver: rhapsody-2,3,4,5 </li>
