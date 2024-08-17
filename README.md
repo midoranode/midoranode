@@ -22,17 +22,13 @@
 
 <p><b>Bitcanna</b> https://www.mintscan.io/bitcanna/validators/bcnavaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq335wzd</P>
 
-<p><b>Lambda</b> https://explorer.nodestake.top/lambda/staking/lambvaloper13yvg4hhej84awly699vus75szvdnuw3h2at4mj</P>
-
 <p><b>Lum</b> https://www.mintscan.io/lum/validators/lumvaloper1yljgmzm67sr3hp8cwje75zk4aakc7gqmzsuxxl</P>
 
-<p><b>Paloma</b> https://paloma.explorers.guru/validator/palomavaloper1zhhwr8gk8pqf9p9eamxnqqstmtszjazwt75k38</P>
+
 
 <h1 align="center">Testnets(Active)</h1>
 
 <p><b>Arkeo</b> https://exp.utsa.tech/arkeo-test/staking/tarkeovaloper130a9vvumtlse6h5r5phs75ktvgy3gjvd0zmsf4</P>
-
-<p><b>Entangle</b> https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1cnm4wsz8z69wpkl5nknps5y0psfytzmwr6g9qy</P>
 
 <p><b>Entrypoint</b> https://exp.utsa.tech/entrypoint-test/staking/entrypointvaloper1l9myhjajdavd7cqw8280pktpxu4yuqrnrxs63c</P>
 
