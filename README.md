@@ -30,8 +30,6 @@
 
 <p><b>Arkeo</b> https://exp.utsa.tech/arkeo-test/staking/tarkeovaloper130a9vvumtlse6h5r5phs75ktvgy3gjvd0zmsf4</P>
 
-<p><b>Entrypoint</b> https://exp.utsa.tech/entrypoint-test/staking/entrypointvaloper1l9myhjajdavd7cqw8280pktpxu4yuqrnrxs63c</P>
-
 <p><b>HyperSign</b> https://explorer.stavr.tech/HyperSign/staking/hidvaloper1u7tamxq2fxe92z0v7y6yh5nwuxj0u2pq0dy5d3</P>
 
 <h1 align="center">Testnets(Completed)</h1>
