@@ -7,13 +7,6 @@
 <p>What is Midoranode? It's a secure and reliable solo validator with experience in POS/POW. IBC Relayer for Cosmos ecosystem runner. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)</p>
 
 <h1 align="center">Hardware</h1>
-<p><b>Location</b> - Hetzner DS, Ovhcloud, Digitalocean, Netcup (Location can be changed, if it necessary)</p> 
-
-<p><b>Processor</b> - AMD Ryzen 5950X (32 CPU, 128 RAM)</p>
-
-<p><b>Memory</b> - 6.8 TB NVMe</p>
-
-<p><b>Bandwidth</b> - 1 Gbit/s-Port</p>
 
 <h1 align="center">Mainnets</h1>
 
