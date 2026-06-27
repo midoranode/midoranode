@@ -1,9 +1,18 @@
-<h1 align="center">BIO</h1>
+Hi, I'm Tony 👋
 
-<p>Hi, my name is <b>Tony</b>. I am a solo <b>noderunner</b>, <b>validator</b> and <b>blockchain enthusiast</b>. I am solo validator but also is a part of crypto team which include influencers, investors, crypto developers and other crypto enthusiasts. I'm also a <b>Data Analyst</b>, and I'm passionate about <b>programming</b>, <b>AI</b>, and <b>vibe coding</b>.</p>
+I'm a Data Analyst, blockchain enthusiast, and solo validator with a passion for data, automation, and decentralized technologies.
 
-<p>I have  about 3 years of experience in running nodes, validating and testnet participating. Also I have experience as a Linux administrator in previous times. </p>
+Over the past 3+ years, I've been actively participating in testnets, running blockchain nodes and validators, and contributing to crypto ecosystems. I'm also part of a crypto community that brings together validators, developers, investors, influencers, and blockchain enthusiasts.
 
+My background combines business, analytics, and infrastructure. I enjoy transforming raw data into actionable insights, automating workflows, and building tools that solve real-world problems.
+
+Tech Stack
+Data Analytics: SQL, Python, PostgreSQL, Power BI, Excel, Pandas, NumPy
+Programming & Automation: Python, REST API, Telegram Bots, Git
+Blockchain: Node Operations, Validators, Testnets, Linux, Docker
+Other Interests: AI, Vibe Coding, Process Automation
+
+I'm always open to collaborating on blockchain infrastructure, analytics, automation, and AI-driven projects.
 
 
 
@@ -13,3 +22,4 @@
 
  
  
+**
