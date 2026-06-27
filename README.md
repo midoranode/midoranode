@@ -7,9 +7,9 @@ Over the past 3+ years, I've been actively participating in testnets, running bl
 My background combines business, analytics, and infrastructure. I enjoy transforming raw data into actionable insights, automating workflows, and building tools that solve real-world problems.
 
 <h3>Tech Stack</h3>
-Data Analytics: SQL, Python, PostgreSQL, Power BI, Excel, Pandas, NumPy
-Programming & Automation: Python, REST API, Telegram Bots, Git
-Blockchain: Node Operations, Validators, Testnets, Linux, Docker
+<b>Data Analytics</b>: SQL, Python, PostgreSQL, Power BI, Excel, Pandas, NumPy
+<b>Programming & Automation</b>: Python, REST API, Telegram Bots, Git
+<b>Blockchain</b>: Node Operations, Validators, Testnets, Linux, Docker
 Other Interests: AI, Vibe Coding, Process Automation
 
 I'm always open to collaborating on blockchain infrastructure, analytics, automation, and AI-driven projects.
